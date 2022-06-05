@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>net.ausiasmarch</groupId>
-	<artifactId>wildcart2021</artifactId>
+	<artifactId>trolleyesServer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>wildcart2021</name>
+	<name>trolleyesServer</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
